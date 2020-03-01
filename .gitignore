@@ -1,2 +1,3 @@
-airflow_files/logs/*
+airflow_files/logs
+__pycache__
 data/*
