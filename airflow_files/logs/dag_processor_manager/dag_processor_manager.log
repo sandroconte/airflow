@@ -217,3 +217,563 @@
 [2020-03-01 18:58:35,151] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:53:35.151820+00:00
 [2020-03-01 18:58:45,188] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
 [2020-03-01 18:58:45,188] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:53:45.188678+00:00
+[2020-03-01 18:58:55,229] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 18:58:55,230] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:53:55.230392+00:00
+[2020-03-01 18:59:05,268] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 18:59:05,268] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:54:05.268460+00:00
+[2020-03-01 18:59:15,306] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 18:59:15,306] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:54:15.306928+00:00
+[2020-03-01 18:59:25,346] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 18:59:25,347] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:54:25.347035+00:00
+[2020-03-01 18:59:35,384] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 18:59:35,384] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:54:35.384837+00:00
+[2020-03-01 18:59:45,417] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 18:59:45,417] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:54:45.417712+00:00
+[2020-03-01 18:59:55,455] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 18:59:55,455] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:54:55.455811+00:00
+[2020-03-01 19:00:05,492] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:00:05,492] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:55:05.492796+00:00
+[2020-03-01 19:00:15,538] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:00:15,539] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:55:15.539139+00:00
+[2020-03-01 19:00:25,576] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:00:25,576] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:55:25.576544+00:00
+[2020-03-01 19:00:35,614] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:00:35,614] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:55:35.614566+00:00
+[2020-03-01 19:00:45,647] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:00:45,647] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:55:45.647590+00:00
+[2020-03-01 19:00:55,686] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:00:55,687] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:55:55.687326+00:00
+[2020-03-01 19:01:05,725] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:01:05,725] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:56:05.725588+00:00
+[2020-03-01 19:01:15,765] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:01:15,765] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:56:15.765701+00:00
+[2020-03-01 19:01:25,804] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:01:25,804] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:56:25.804834+00:00
+[2020-03-01 19:01:35,836] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:01:35,836] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:56:35.836532+00:00
+[2020-03-01 19:01:45,874] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:01:45,874] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:56:45.874768+00:00
+[2020-03-01 19:01:55,912] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:01:55,912] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:56:55.912577+00:00
+[2020-03-01 19:02:05,953] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:02:05,954] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:57:05.954261+00:00
+[2020-03-01 19:02:15,996] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:02:15,996] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:57:15.996662+00:00
+[2020-03-01 19:02:26,032] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:02:26,033] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:57:26.033023+00:00
+[2020-03-01 19:02:36,069] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:02:36,069] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:57:36.069514+00:00
+[2020-03-01 19:02:44,098] {dag_processing.py:910} INFO - Searching for files in /usr/local/airflow/dags
+[2020-03-01 19:02:44,100] {dag_processing.py:913} INFO - There are 0 files in /usr/local/airflow/dags
+[2020-03-01 19:02:46,112] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:02:46,112] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:57:46.112627+00:00
+[2020-03-01 19:02:56,151] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:02:56,152] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:57:56.152425+00:00
+[2020-03-01 19:03:06,187] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:03:06,188] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:58:06.187886+00:00
+[2020-03-01 19:03:16,227] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:03:16,227] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:58:16.227582+00:00
+[2020-03-01 19:03:26,267] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:03:26,267] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:58:26.267659+00:00
+[2020-03-01 19:03:36,308] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:03:36,309] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:58:36.308924+00:00
+[2020-03-01 19:03:46,344] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:03:46,345] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:58:46.345572+00:00
+[2020-03-01 19:03:56,391] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:03:56,391] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:58:56.391590+00:00
+[2020-03-01 19:04:06,435] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:04:06,436] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:59:06.436375+00:00
+[2020-03-01 19:04:16,475] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:04:16,476] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:59:16.476015+00:00
+[2020-03-01 19:04:26,509] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:04:26,510] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:59:26.510035+00:00
+[2020-03-01 19:04:36,548] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:04:36,548] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:59:36.548515+00:00
+[2020-03-01 19:04:46,587] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:04:46,588] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:59:46.588062+00:00
+[2020-03-01 19:04:56,626] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:04:56,626] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 18:59:56.626783+00:00
+[2020-03-01 19:05:06,664] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:05:06,664] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:00:06.664526+00:00
+[2020-03-01 19:05:16,703] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:05:16,704] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:00:16.704055+00:00
+[2020-03-01 19:05:26,738] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:05:26,739] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:00:26.739278+00:00
+[2020-03-01 19:05:36,774] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:05:36,775] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:00:36.775412+00:00
+[2020-03-01 19:05:46,814] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:05:46,815] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:00:46.815203+00:00
+[2020-03-01 19:05:56,846] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:05:56,847] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:00:56.847098+00:00
+[2020-03-01 19:06:06,884] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:06:06,885] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:01:06.885038+00:00
+[2020-03-01 19:06:16,924] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:06:16,924] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:01:16.924663+00:00
+[2020-03-01 19:06:26,963] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:06:26,964] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:01:26.964075+00:00
+[2020-03-01 19:06:36,999] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:06:37,000] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:01:37.000085+00:00
+[2020-03-01 19:06:47,030] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:06:47,031] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:01:47.031305+00:00
+[2020-03-01 19:06:57,071] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:06:57,071] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:01:57.071459+00:00
+[2020-03-01 19:07:07,097] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:07:07,097] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:02:07.097544+00:00
+[2020-03-01 19:07:17,135] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:07:17,135] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:02:17.135583+00:00
+[2020-03-01 19:07:27,177] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:07:27,177] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:02:27.177520+00:00
+[2020-03-01 19:07:37,211] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:07:37,212] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:02:37.212226+00:00
+[2020-03-01 19:07:44,243] {dag_processing.py:910} INFO - Searching for files in /usr/local/airflow/dags
+[2020-03-01 19:07:44,245] {dag_processing.py:913} INFO - There are 1 files in /usr/local/airflow/dags
+[2020-03-01 19:07:47,287] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:07:47,288] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:02:47.288509+00:00
+[2020-03-01 19:07:47,320] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py    327  0.01s             0           0  1.03s           2020-03-01T19:07:47
+================================================================================
+[2020-03-01 19:07:57,405] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:07:57,406] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:02:57.406192+00:00
+[2020-03-01 19:08:07,520] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:08:07,521] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:03:07.521488+00:00
+[2020-03-01 19:08:17,638] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:08:17,639] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:03:17.639156+00:00
+[2020-03-01 19:08:17,651] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py    485  0.00s             0           0  1.02s           2020-03-01T19:08:17
+================================================================================
+[2020-03-01 19:08:27,737] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:08:27,737] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:03:27.737447+00:00
+[2020-03-01 19:08:37,839] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:08:37,840] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:03:37.840709+00:00
+[2020-03-01 19:08:47,947] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:08:47,948] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:03:47.948189+00:00
+[2020-03-01 19:08:47,976] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py    640  0.01s             0           0  1.03s           2020-03-01T19:08:47
+================================================================================
+[2020-03-01 19:08:58,067] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:08:58,067] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:03:58.067802+00:00
+[2020-03-01 19:09:08,187] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:09:08,188] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:04:08.188250+00:00
+[2020-03-01 19:09:18,320] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:09:18,321] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:04:18.321345+00:00
+[2020-03-01 19:09:18,334] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py    795  0.00s             0           0  1.02s           2020-03-01T19:09:18
+================================================================================
+[2020-03-01 19:09:28,424] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:09:28,425] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:04:28.425079+00:00
+[2020-03-01 19:09:38,534] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:09:38,535] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:04:38.535813+00:00
+[2020-03-01 19:09:48,659] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:09:48,660] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:04:48.660303+00:00
+[2020-03-01 19:09:48,672] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py    951  0.00s             0           0  1.02s           2020-03-01T19:09:48
+================================================================================
+[2020-03-01 19:09:58,766] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:09:58,767] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:04:58.767272+00:00
+[2020-03-01 19:10:08,911] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:10:08,913] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:05:08.913144+00:00
+[2020-03-01 19:10:19,018] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:10:19,019] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:05:19.018988+00:00
+[2020-03-01 19:10:19,047] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   1106  0.01s             0           0  1.02s           2020-03-01T19:10:19
+================================================================================
+[2020-03-01 19:10:29,144] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:10:29,144] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:05:29.144885+00:00
+[2020-03-01 19:10:39,256] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:10:39,257] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:05:39.257168+00:00
+[2020-03-01 19:10:49,376] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:10:49,377] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:05:49.377592+00:00
+[2020-03-01 19:10:49,406] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   1261  0.01s             0           0  1.03s           2020-03-01T19:10:49
+================================================================================
+[2020-03-01 19:10:59,505] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:10:59,506] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:05:59.506330+00:00
+[2020-03-01 19:11:09,622] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:11:09,623] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:06:09.623383+00:00
+[2020-03-01 19:11:19,737] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:11:19,738] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:06:19.738706+00:00
+[2020-03-01 19:11:19,766] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   1416  0.01s             0           0  1.03s           2020-03-01T19:11:19
+================================================================================
+[2020-03-01 19:11:29,884] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:11:29,885] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:06:29.885153+00:00
+[2020-03-01 19:11:40,002] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:11:40,003] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:06:40.003331+00:00
+[2020-03-01 19:11:50,143] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:11:50,144] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:06:50.144196+00:00
+[2020-03-01 19:11:50,154] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   1571  0.00s             0           0  1.02s           2020-03-01T19:11:50
+================================================================================
+[2020-03-01 19:12:00,264] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:12:00,264] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:07:00.264872+00:00
+[2020-03-01 19:12:10,386] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:12:10,388] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:07:10.387929+00:00
+[2020-03-01 19:12:20,492] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:12:20,493] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:07:20.493589+00:00
+[2020-03-01 19:12:20,515] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   1726  0.00s             0           0  1.03s           2020-03-01T19:12:20
+================================================================================
+[2020-03-01 19:12:30,604] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:12:30,605] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:07:30.604954+00:00
+[2020-03-01 19:12:40,730] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:12:40,730] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:07:40.730618+00:00
+[2020-03-01 19:12:44,774] {dag_processing.py:910} INFO - Searching for files in /usr/local/airflow/dags
+[2020-03-01 19:12:44,777] {dag_processing.py:913} INFO - There are 1 files in /usr/local/airflow/dags
+[2020-03-01 19:12:50,846] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:12:50,847] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:07:50.847777+00:00
+[2020-03-01 19:12:50,877] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   1881  0.01s             0           0  1.03s           2020-03-01T19:12:50
+================================================================================
+[2020-03-01 19:13:00,965] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:13:00,966] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:08:00.966026+00:00
+[2020-03-01 19:13:11,086] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:13:11,087] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:08:11.087266+00:00
+[2020-03-01 19:13:21,191] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:13:21,192] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:08:21.192449+00:00
+[2020-03-01 19:13:21,221] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   2036  0.01s             0           0  1.03s           2020-03-01T19:13:21
+================================================================================
+[2020-03-01 19:13:31,322] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:13:31,323] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:08:31.323216+00:00
+[2020-03-01 19:13:41,459] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:13:41,460] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:08:41.460376+00:00
+[2020-03-01 19:13:51,584] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:13:51,585] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:08:51.585493+00:00
+[2020-03-01 19:13:51,611] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   2192  0.01s             0           0  1.02s           2020-03-01T19:13:51
+================================================================================
+[2020-03-01 19:14:01,703] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:14:01,704] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:09:01.704097+00:00
+[2020-03-01 19:14:11,813] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:14:11,814] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:09:11.814416+00:00
+[2020-03-01 19:14:21,955] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:14:21,956] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:09:21.956489+00:00
+[2020-03-01 19:14:21,987] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   2347  0.01s             0           0  1.04s           2020-03-01T19:14:21
+================================================================================
+[2020-03-01 19:14:32,081] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:14:32,082] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:09:32.082398+00:00
+[2020-03-01 19:14:42,196] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:14:42,197] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:09:42.197323+00:00
+[2020-03-01 19:14:52,336] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:14:52,337] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:09:52.337135+00:00
+[2020-03-01 19:14:52,365] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   2502  0.01s             0           0  1.03s           2020-03-01T19:14:52
+================================================================================
+[2020-03-01 19:15:02,484] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:15:02,485] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:10:02.485128+00:00
+[2020-03-01 19:15:12,608] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:15:12,609] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:10:12.609281+00:00
+[2020-03-01 19:15:22,739] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:15:22,740] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:10:22.740369+00:00
+[2020-03-01 19:15:22,752] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   2657  0.00s             0           0  1.02s           2020-03-01T19:15:22
+================================================================================
+[2020-03-01 19:15:32,848] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:15:32,849] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:10:32.849668+00:00
+[2020-03-01 19:15:42,964] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:15:42,965] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:10:42.965367+00:00
+[2020-03-01 19:15:53,072] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:15:53,073] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:10:53.073027+00:00
+[2020-03-01 19:15:53,085] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   2812  0.00s             0           0  1.02s           2020-03-01T19:15:53
+================================================================================
+[2020-03-01 19:16:03,184] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:16:03,185] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:11:03.184980+00:00
+[2020-03-01 19:16:13,303] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:16:13,304] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:11:13.304178+00:00
+[2020-03-01 19:16:23,418] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:16:23,420] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:11:23.419961+00:00
+[2020-03-01 19:16:23,433] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   2968  0.00s             0           0  1.02s           2020-03-01T19:16:23
+================================================================================
+[2020-03-01 19:16:33,536] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:16:33,537] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:11:33.537152+00:00
+[2020-03-01 19:16:43,651] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:16:43,652] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:11:43.652147+00:00
+[2020-03-01 19:16:53,754] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:16:53,755] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:11:53.755350+00:00
+[2020-03-01 19:16:53,767] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   3124  0.00s             0           0  1.02s           2020-03-01T19:16:53
+================================================================================
+[2020-03-01 19:17:03,867] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:17:03,867] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:12:03.867570+00:00
+[2020-03-01 19:17:13,971] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:17:13,972] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:12:13.972773+00:00
+[2020-03-01 19:17:24,092] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:17:24,093] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:12:24.093292+00:00
+[2020-03-01 19:17:24,106] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   3279  0.00s             0           0  1.02s           2020-03-01T19:17:24
+================================================================================
+[2020-03-01 19:17:34,204] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:17:34,205] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:12:34.205231+00:00
+[2020-03-01 19:17:44,321] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:17:44,323] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:12:44.323060+00:00
+[2020-03-01 19:17:45,352] {dag_processing.py:910} INFO - Searching for files in /usr/local/airflow/dags
+[2020-03-01 19:17:45,355] {dag_processing.py:913} INFO - There are 1 files in /usr/local/airflow/dags
+[2020-03-01 19:17:54,458] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:17:54,459] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:12:54.459060+00:00
+[2020-03-01 19:17:54,472] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   3434  0.00s             0           0  1.02s           2020-03-01T19:17:54
+================================================================================
+[2020-03-01 19:18:04,564] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:18:04,564] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:13:04.564522+00:00
+[2020-03-01 19:18:14,682] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:18:14,684] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:13:14.684224+00:00
+[2020-03-01 19:18:24,799] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:18:24,800] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:13:24.799972+00:00
+[2020-03-01 19:18:24,812] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   3590  0.00s             0           0  1.02s           2020-03-01T19:18:24
+================================================================================
+[2020-03-01 19:18:34,911] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:18:34,912] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:13:34.912541+00:00
+[2020-03-01 19:18:45,043] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:18:45,044] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:13:45.044866+00:00
+[2020-03-01 19:18:55,159] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:18:55,160] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:13:55.160171+00:00
+[2020-03-01 19:18:55,189] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   3745  0.01s             0           0  1.03s           2020-03-01T19:18:55
+================================================================================
+[2020-03-01 19:19:05,293] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:19:05,294] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:14:05.294095+00:00
+[2020-03-01 19:19:15,393] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:19:15,394] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:14:15.394699+00:00
+[2020-03-01 19:19:25,490] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:19:25,492] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:14:25.491904+00:00
+[2020-03-01 19:19:25,516] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   3901  0.01s             0           0  1.02s           2020-03-01T19:19:25
+================================================================================
+[2020-03-01 19:19:35,615] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:19:35,616] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:14:35.616830+00:00
+[2020-03-01 19:19:45,746] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:19:45,747] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:14:45.747387+00:00
+[2020-03-01 19:19:55,855] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:19:55,856] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:14:55.856245+00:00
+[2020-03-01 19:19:55,865] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   4056  0.00s             0           0  1.02s           2020-03-01T19:19:55
+================================================================================
+[2020-03-01 19:20:05,972] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:20:05,973] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:15:05.973819+00:00
+[2020-03-01 19:20:16,084] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:20:16,085] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:15:16.085312+00:00
+[2020-03-01 19:20:26,213] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:20:26,214] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:15:26.214522+00:00
+[2020-03-01 19:20:26,242] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   4211  0.01s             0           0  1.03s           2020-03-01T19:20:26
+================================================================================
+[2020-03-01 19:20:36,346] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:20:36,347] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:15:36.347665+00:00
+[2020-03-01 19:20:46,472] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:20:46,473] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:15:46.473352+00:00
+[2020-03-01 19:20:56,576] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:20:56,577] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:15:56.577130+00:00
+[2020-03-01 19:20:56,587] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   4367  0.00s             0           0  1.02s           2020-03-01T19:20:56
+================================================================================
+[2020-03-01 19:21:06,677] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:21:06,678] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:16:06.678806+00:00
+[2020-03-01 19:21:16,793] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:21:16,794] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:16:16.794882+00:00
+[2020-03-01 19:21:26,920] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:21:26,921] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:16:26.921192+00:00
+[2020-03-01 19:21:26,946] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   4522  0.01s             0           0  1.03s           2020-03-01T19:21:26
+================================================================================
+[2020-03-01 19:21:37,039] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:21:37,040] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:16:37.040273+00:00
+[2020-03-01 19:21:47,164] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:21:47,165] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:16:47.165337+00:00
+[2020-03-01 19:21:57,279] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:21:57,280] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:16:57.280317+00:00
+[2020-03-01 19:21:57,309] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   4677  0.01s             0           0  1.03s           2020-03-01T19:21:57
+================================================================================
+[2020-03-01 19:22:07,391] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:22:07,392] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:17:07.391990+00:00
+[2020-03-01 19:22:17,513] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:22:17,514] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:17:17.514522+00:00
+[2020-03-01 19:22:27,632] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:22:27,633] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:17:27.633711+00:00
+[2020-03-01 19:22:27,645] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   4832  0.00s             0           0  1.02s           2020-03-01T19:22:27
+================================================================================
+[2020-03-01 19:22:37,752] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:22:37,753] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:17:37.753180+00:00
+[2020-03-01 19:22:45,860] {dag_processing.py:910} INFO - Searching for files in /usr/local/airflow/dags
+[2020-03-01 19:22:45,862] {dag_processing.py:913} INFO - There are 1 files in /usr/local/airflow/dags
+[2020-03-01 19:22:47,908] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:22:47,909] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:17:47.909457+00:00
+[2020-03-01 19:22:58,020] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:22:58,021] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:17:58.021220+00:00
+[2020-03-01 19:22:58,040] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   4988  0.00s             0           0  1.03s           2020-03-01T19:22:58
+================================================================================
+[2020-03-01 19:23:08,142] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:23:08,143] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:18:08.143602+00:00
+[2020-03-01 19:23:18,253] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:23:18,254] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:18:18.254089+00:00
+[2020-03-01 19:23:28,349] {dag_processing.py:1286} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-03-01 19:23:28,350] {dag_processing.py:1290} INFO - Failing jobs without heartbeat after 2020-03-01 19:18:28.350896+00:00
+[2020-03-01 19:23:28,381] {dag_processing.py:1023} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/example_dags/tutorial.py   5144  0.01s             0           0  1.03s           2020-03-01T19:23:28
+================================================================================

@@ -1,2 +1,2 @@
-airflow_files/dags/*
+airflow_files/logs/*
 data/*
